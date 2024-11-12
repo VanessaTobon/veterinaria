@@ -187,11 +187,11 @@
             // lbltitulo
             // 
             this.lbltitulo.AutoSize = true;
-            this.lbltitulo.Location = new System.Drawing.Point(300, 179);
+            this.lbltitulo.Location = new System.Drawing.Point(286, 177);
             this.lbltitulo.Name = "lbltitulo";
-            this.lbltitulo.Size = new System.Drawing.Size(84, 20);
+            this.lbltitulo.Size = new System.Drawing.Size(163, 20);
             this.lbltitulo.TabIndex = 74;
-            this.lbltitulo.Text = "Datos Cita";
+            this.lbltitulo.Text = "Datos Historial Clinico";
             this.lbltitulo.Click += new System.EventHandler(this.lbltitulo_Click);
             // 
             // label3
