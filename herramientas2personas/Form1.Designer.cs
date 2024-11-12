@@ -176,7 +176,7 @@ namespace herramientas2personas
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(279, 181);
+            this.label1.Location = new System.Drawing.Point(245, 181);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(164, 20);
             this.label1.TabIndex = 9;
